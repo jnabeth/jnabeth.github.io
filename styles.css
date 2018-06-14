@@ -160,6 +160,6 @@ body {
   and (-webkit-min-device-pixel-ratio: 2)
   and (orientation: portrait)  {
     .project-tile{
-      width: 55%;
+      width: 40%;
     }
 }
